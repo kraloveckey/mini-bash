@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 1 > /proc/sys/kernel/sysrq && echo f > /proc/sysrq-trigger && echo 0 > /proc/sys/kernel/sysrq && echo 3 > /proc/sys/vm/drop_caches && /sbin/swapoff -a && /sbin/swapon -a && printf '\n%s\n' 'Ram-cache and Swap Cleared'

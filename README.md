@@ -16,6 +16,10 @@ align="center">🤖 A collection of simple and different tools written on Bash t
 
 ---
 
+- [**`f31`**](./f31/) - a bash script that hardens your Kali Linux and allows you to minimize noise in the air, useful for pentesters or red team operators where it is important to have minimal impact on the infrastructure to avoid network performance issues.
+
+---
+
 - [**`icheck.sh`**](icheck.sh) - script that check Internet connection.
 
 ---

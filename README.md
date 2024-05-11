@@ -36,6 +36,10 @@ sudo bash nmap-scan.sh <host>
 
 ---
 
+- [**`rs-gen`**](./rs-gen/) - a tool to generate various ways to do a reverse shell.
+
+---
+
 - [**`x-download-iso.sh`**](x-download-iso.sh) - script that download latest and stable useful `.iso` images.
 
 ---
